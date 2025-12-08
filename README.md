@@ -10,6 +10,7 @@
 ---
 
 ## สมาชิกทีม
+
 - ศิวภาส ภูศรีอ่อน (663380026-5) : ทำในส่วน Algorithms ทั้งหมด (Quick Sort และ Bubble Sort)
 - ภควรรธ บุญเรือง (663380227-5) : ทำในส่วนของการรับค่า input integer และ การเลือกการแสดงผลของ Algorithm
 - รัชภูมิ ทองแดง (663380231-4) : ทำในส่วนของการแสดงผล Output และการทำงานของโค้ดทั้งหมดใน Main.py
@@ -28,3 +29,5 @@ MiniProjectLab3/
 ---
 
 **หมายเหตุ: ส่วนของ Contributors: Siwapad และ PunKunGG เป็นคนๆเดียวกัน เนื่องจากในการเชิญเผลอเชิญผิดบัญชีครับ**
+
+![hippo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGEzbGZ3ZnpoMDJiNXI0Y2tlbm0xNmJ6bzNocGh3Z29kYzZmbGh4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EXHHMS9caoxAA/giphy.gif)
